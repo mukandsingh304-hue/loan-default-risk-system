@@ -1,0 +1,8 @@
+{
+  "name": "Loan Default Risk Assessment & Scoring System",
+  "description": "Comprehensive loan default risk evaluation platform featuring machine-learning risk scoring, SHAP-style credit factor explainability, portfolio stress testing, automated underwriting decisions, and real-time risk-based pricing analytics.",
+  "version": "1.0.0",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
